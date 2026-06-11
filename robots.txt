@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://k1gamebonus.com/sitemap.xml

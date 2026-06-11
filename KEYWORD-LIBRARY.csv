@@ -1,0 +1,18 @@
+type,keyword,target_url,intent,priority
+core,"is k1 game real","/","homepage",1
+"review","is k1 game real","/guides/is-k1-game-real/","review",1
+"safety","is k1 game safe","/guides/is-k1-game-safe/","safety",1
+"risk","k1 game scam","/guides/k1-game-scam-red-flags/","risk",1
+"review","k1 game withdrawal proof","/guides/withdrawal-proof-claims/","review",1
+"risk","fake k1 game apk","/guides/fake-apk-mirrors/","risk",2
+"trust","k1 game review methodology","/guides/review-methodology/","trust",2
+"freshness","k1 game user claims","/guides/user-claims-log/","freshness",2
+"safety","k1 game safe download","/guides/safe-download-review/","safety",2
+"risk","k1 game bonus claim","/guides/bonus-claim-risks/","risk",3
+"review","k1 game support review","/guides/support-visibility/","review",3
+"faq","k1 game review faq","/guides/review-faq/","faq",3
+"freshness","k1 game safety notes","/guides/weekly-safety-notes/","freshness",3
+hub,"Review","/review/","hub",1
+hub,"Safety Checklist","/safety-checklist/","hub",2
+hub,"Red Flags","/red-flags/","hub",3
+hub,"User Claims","/user-claims/","hub",4
