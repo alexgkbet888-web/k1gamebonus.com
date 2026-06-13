@@ -1,4 +1,5 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
-Sitemap: https://k1gamebonus.com/sitemap.xml
+Sitemap: http://k1gamebonus.com/sitemap.xml
+
