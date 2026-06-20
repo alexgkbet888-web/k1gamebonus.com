@@ -1,0 +1,13 @@
+{
+    "name":  "K1 Safety Review",
+    "short_name":  "K1 Safety Review",
+    "start_url":  "/",
+    "scope":  "/",
+    "display":  "standalone",
+    "background_color":  "#ffffff",
+    "theme_color":  "#0f172a",
+    "description":  "K1 Game safety review hub for users checking real-or-fake claims, scam signals, APK mirror risks, support visibility, account safety and review evidence.",
+    "icons":  [
+
+              ]
+}
