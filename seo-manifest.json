@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "k1gamebonus.com",
+  "brand": "K1 Game Bonus",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "K1-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://k1gamebonus.com/",
+  "siteType": "authority",
+  "positioning": "K1 safety review, real-or-fake and scam-risk authority site",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "is K1 game real",
+    "is K1 game safe",
+    "is K1 game real or fake"
+  ],
+  "secondaryKeywords": [
+    "K1 game review Pakistan",
+    "K1 game scam red flags",
+    "K1 bonus safety",
+    "K1 safe source checklist"
+  ],
+  "technical": {
+    "sitemapUrl": "https://k1gamebonus.com/sitemap.xml",
+    "robotsUrl": "https://k1gamebonus.com/robots.txt",
+    "feedUrl": "https://k1gamebonus.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:k1gamebonus.com",
+    "connected": true
+  },
+  "monitoring": {
+    "source": "local-generated",
+    "generatedAt": "2026-06-28",
+    "evidencePolicy": "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+  }
+}
